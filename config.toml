@@ -1,0 +1,68 @@
+baseURL = "https://drunkturtle.com"
+languageCode = "en"
+title = "Drunkturtle.com"
+theme = "hugo-nuo"
+enableRobotsTXT = true
+pygmentsuseclasses = true
+PygmentsCodeFences = true
+canonifyurls = true
+publishDir = "docs"
+
+# Disqus Username
+disqusShortname = "drunkturtle"
+
+# Google Analytics UA number
+googleAnalytics = "UA-54734534-1"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = 20
+  identifier = "about"
+  url = "/about"
+
+# Add your own params here
+[params]
+  author = "Christiaan Janssen"
+  avatar = "/img/avatar.jpg"
+  seotitle = "drunkturtle.com"
+  subtitle = "~ Keep It Simple & Stupid ~"
+  description = ""
+  paginate = 10
+
+  # Choose your social networks
+  email = "christiaan@drunkturtle.com"
+  github = "christiaan-janssen"
+  twitter = "shidima"
+  #linkedin = "linkedin_username"
+  #weibo = "weibo_username"
+  #wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
+  # facebook = "facebook_username"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+  # dribbble = "dribbble_username"
+  # behance = "behance_username"
+  # jsfiddle = "jsfiddle_username"
+  # codepen = "codepen_username"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = "22596E34341DD1D17D6022C44647E587"

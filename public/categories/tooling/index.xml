@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tooling on Drunkturtle.com</title>
+    <link>https://drunkturtle.com/categories/tooling/</link>
+    <description>Recent content in Tooling on Drunkturtle.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 12 Oct 2016 06:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://drunkturtle.com/categories/tooling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs a New Dawn.</title>
+      <link>https://drunkturtle.com/2016/10/12/emacs-a-new-dawn/</link>
+      <pubDate>Wed, 12 Oct 2016 06:35:00 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/2016/10/12/emacs-a-new-dawn/</guid>
+      <description>I have been using Emacs for some time now, and it has been interesting, but there are some things that make it a bit difficult to use. The key bindings for instance are at times really weird and impossible to guess. Some things are hard to get to work, and with others I run into some limitations with Emacs. Nevertheless it is an interesting editor to work with. It was fun to tell an external engineer that I use Emacs when he was asking about the editor I used, and seeing his reaction.</description>
+    </item>
+    
+  </channel>
+</rss>

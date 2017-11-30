@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://drunkturtle.com/about/</loc>
+    <lastmod>2017-10-26T09:59:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2016/10/12/emacs-a-new-dawn/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2016/07/08/hello-from-emacs/</loc>
+    <lastmod>2016-07-08T18:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2016/06/28/game-programming/</loc>
+    <lastmod>2016-06-28T17:30:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2016/03/16/a-big-change/</loc>
+    <lastmod>2016-03-16T06:45:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/09/23/back-to-school/</loc>
+    <lastmod>2015-09-23T21:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/08/13/busy-busy-busy/</loc>
+    <lastmod>2015-08-13T21:48:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/05/20/c-programming/</loc>
+    <lastmod>2015-05-20T22:07:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/05/18/moved-to-wordpress/</loc>
+    <lastmod>2015-05-18T05:36:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/04/28/learning-c/</loc>
+    <lastmod>2015-04-28T05:39:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/04/12/small-update/</loc>
+    <lastmod>2015-04-12T05:44:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/04/05/asus-t100-and-linux/</loc>
+    <lastmod>2015-04-05T05:46:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/02/27/android-app/</loc>
+    <lastmod>2015-02-27T05:49:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/2015/02/19/welcome-to-drunkturtle-com/</loc>
+    <lastmod>2015-02-19T05:34:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/categories/bloggin/</loc>
+    <lastmod>2016-07-08T18:32:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/categories/</loc>
+    <lastmod>2016-07-08T18:32:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/</loc>
+    <lastmod>2017-10-26T09:59:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/emacs/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/categories/game-dev/</loc>
+    <lastmod>2016-06-28T17:30:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/gamedev/</loc>
+    <lastmod>2016-06-28T17:30:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/learning/</loc>
+    <lastmod>2016-06-28T17:30:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/org2blog/</loc>
+    <lastmod>2016-07-08T18:32:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/post/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/categories/tooling/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/tools/</loc>
+    <lastmod>2016-10-12T06:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/categories/uncategorized/</loc>
+    <lastmod>2016-03-16T06:45:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drunkturtle.com/tags/unity/</loc>
+    <lastmod>2016-06-28T17:30:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
