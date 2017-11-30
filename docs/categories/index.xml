@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Drunkturtle.com</title>
+    <link>https://drunkturtle.com/categories/</link>
+    <description>Recent content in Categories on Drunkturtle.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 08 Jul 2016 18:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://drunkturtle.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bloggin</title>
+      <link>https://drunkturtle.com/categories/bloggin/</link>
+      <pubDate>Fri, 08 Jul 2016 18:32:00 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/categories/bloggin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>https://drunkturtle.com/categories/game-dev/</link>
+      <pubDate>Tue, 28 Jun 2016 17:30:11 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/categories/game-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://drunkturtle.com/categories/uncategorized/</link>
+      <pubDate>Wed, 16 Mar 2016 06:45:30 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

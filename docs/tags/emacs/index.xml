@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Drunkturtle.com</title>
+    <link>https://drunkturtle.com/tags/emacs/</link>
+    <description>Recent content in Emacs on Drunkturtle.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 12 Oct 2016 06:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://drunkturtle.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs a New Dawn.</title>
+      <link>https://drunkturtle.com/post/2016-10-12-emacs-a-new-dawn/</link>
+      <pubDate>Wed, 12 Oct 2016 06:35:00 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/post/2016-10-12-emacs-a-new-dawn/</guid>
+      <description>I have been using Emacs for some time now, and it has been interesting, but there are some things that make it a bit difficult to use. The key bindings for instance are at times really weird and impossible to guess. Some things are hard to get to work, and with others I run into some limitations with Emacs. Nevertheless it is an interesting editor to work with. It was fun to tell an external engineer that I use Emacs when he was asking about the editor I used, and seeing his reaction.</description>
+    </item>
+    
+    <item>
+      <title>Hello from Emacs!</title>
+      <link>https://drunkturtle.com/2016/07/08/hello-from-emacs/</link>
+      <pubDate>Fri, 08 Jul 2016 18:32:00 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/2016/07/08/hello-from-emacs/</guid>
+      <description>Lately I have been working more in emacs, trying to see what I can do with it. The keyboard shortcuts are a bit arcane, but when you get used to them it&#39; actualy fun to work with. This post for instance is written in emacs on my laptop.  I have already setup my email with notmuch and offlineimap. This allows me to read and write mail in emacs. And the next thing I&#39;m working in is to learn to use org-mode with org2blog.</description>
+    </item>
+    
+  </channel>
+</rss>

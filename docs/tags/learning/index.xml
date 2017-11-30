@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Drunkturtle.com</title>
+    <link>https://drunkturtle.com/tags/learning/</link>
+    <description>Recent content in Learning on Drunkturtle.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 28 Jun 2016 17:30:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://drunkturtle.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Programming</title>
+      <link>https://drunkturtle.com/2016/06/28/game-programming/</link>
+      <pubDate>Tue, 28 Jun 2016 17:30:11 +0000</pubDate>
+      
+      <guid>https://drunkturtle.com/2016/06/28/game-programming/</guid>
+      <description>Last week it was Unity week over at Packt Publishing. They have this great free ebook program where you can get a new random ebook every day. This has allowed my ebook collection to grow to over 270 ebooks. Every so often they have a theme week where you get ebooks that fit the topic. I now own 17 ebooks about Unity so I thought it was time to start doing something with them.</description>
+    </item>
+    
+  </channel>
+</rss>
